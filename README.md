@@ -67,7 +67,7 @@ Currently seeking opportunities to contribute, learn, and grow with a forward-th
 
 
   </a>
-  <a href="https://github.com/SharifAhmed/GERICHT---RESTURENT-WEBSITE">
+  <a href="https://github.com/sharifstack/GERICHT---RESTURENT-WEBSITE">
     <img src="https://github.com/user-attachments/assets/ca398c7d-b13f-466f-a498-e5b3a9c802bb" />
   </a>
 </p>
