@@ -6,7 +6,7 @@
 <!-- Intro Section -->
 <h2 align="center">Hi 👋, I'm Sharif Ahmed</h2>
 <p align="center">
-💻 Building interactive, modern, and scalable web applications with a strong focus on frontend technologies.
+💻 Building interactive, modern, and scalable web applications with a strong focus on frontend technologies.<br>
 🚀 Exploring and learning backend development to grow as a complete full stack developer.
 </p>
 
