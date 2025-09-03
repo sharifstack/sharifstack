@@ -6,9 +6,8 @@
 <!-- Intro Section -->
 <h2 align="center">Hi 👋, I'm Sharif Ahmed</h2>
 <p align="center">
-🌟 Passionate Full Stack Developer
-💻 Building interactive, modern, and scalable web applications using both frontend and backend technologies.
-🚀 Skilled in creating seamless user experiences and robust server-side solutions.
+💻 Building interactive, modern, and scalable web applications with a strong focus on frontend technologies.
+🚀 Exploring and learning backend development to grow as a complete full stack developer.
 </p>
 
 ---
@@ -16,11 +15,7 @@
 <h3 align="center">💼 About Me</h3>
 
 <p align="center">
-💻 Full Stack Developer with 3+ years of experience building high-quality web applications. Specializes in <b>React.js, Next.js, Tailwind CSS</b> on the frontend, with a strong backend foundation in <b>Node.js, Express.js, and MongoDB</b>.
-
-Builds <b>scalable, maintainable, and user-friendly applications</b> that solve real-world problems. Passionate about clean code, modern web technologies, and continuous learning to deliver exceptional results.
-
-Currently seeking opportunities to contribute, learn, and grow with a forward-thinking development team.
+Full Stack Developer with 3+ years of experience in frontend development. Proficient in React.js, Next.js, and Tailwind CSS, while currently expanding skills in backend development with Node.js, Express.js, and MongoDB. Passionate about building high-quality web applications and continuously improving as a full stack developer.
 </p>
 
 
