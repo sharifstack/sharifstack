@@ -82,22 +82,7 @@ Full Stack Developer with 3+ years of experience in frontend development. Profic
 
 ---
 
-<!-- Project Showcase -->
-<h3 align="center" >🚀 Featured Projects</h3>
 
-
-<p  align="center"  >
-  <a href="https://github.com/sharifstack/Orebi">
-    <img src="https://github.com/user-attachments/assets/8b1d712e-dffc-4a0a-903d-3621ab531c8f" alt="Orebi Repo" />
-
-
-  </a>
-  <a href="https://github.com/sharifstack/GERICHT---RESTURENT-WEBSITE">
-    <img src="https://github.com/user-attachments/assets/ca398c7d-b13f-466f-a498-e5b3a9c802bb" />
-  </a>
-</p>
-
----
 
 <!-- Fun Section -->
 <h3 align="center">🎉 Fun Zone</h3>
