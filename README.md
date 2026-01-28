@@ -72,12 +72,17 @@ Full Stack Developer with 3+ years of experience in frontend development. Profic
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharifAhmed&show_icons=true&theme=radical" alt="Sharif's GitHub stats" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SharifAhmed&show_icons=true&theme=radical"
+    height="160"
+  />
+   &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharifAhmed&layout=compact&theme=radical"
+    height="160"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharifAhmed&layout=compact&theme=radical" height="160"/>
-</p>
 
 ---
 
